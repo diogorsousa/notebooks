@@ -1,6 +1,6 @@
 # Notebooks
 Scrapbook of Jupyter notebooks
 
-[Hello World](https://github.com/diogorsousa/Notebooks/blob/main/HelloWorld.ipynb)
+[Hello World](https://github.com/diogorsousa/Notebooks/blob/main/hello_world.ipynb)
 
 [Lap Calculator](https://github.com/diogorsousa/Notebooks/blob/main/lap_calculator.ipynb)
