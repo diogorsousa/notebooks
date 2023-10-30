@@ -13,7 +13,7 @@ This repository serves as a scrapbook of various Jupyter notebooks, each serving
 To get started with these notebooks, clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/diogorsousa/Notebooks.git
+git clone https://github.com/diogorsousa/notebooks.git
 cd Notebooks
 pip install -r requirements.txt
 ```
