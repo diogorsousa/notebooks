@@ -2,7 +2,7 @@
 
 This repository serves as a scrapbook of various Jupyter notebooks, each serving a unique purpose. The notebooks are written in Python and cover a range of topics.
 
-## Contents
+## Contents 
 
 - [Hello World](https://github.com/diogorsousa/Notebooks/blob/main/hello_world.ipynb): A simple "Hello World" example.
 - [Lap Calculator](https://github.com/diogorsousa/Notebooks/blob/main/lap_calculator.ipynb): A notebook that calculates laps.
